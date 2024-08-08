@@ -11,7 +11,7 @@ This documentation provides a quick snapshot of my projects in the data field, s
 6. [Additional Projects](#additional-projects)
 7. [About Me](#about-me)
 
-8. ## Data Science Projects
+## Data Science Projects
 
 | Project Link | Repository | Description |
 |--------------|------------|-------------|

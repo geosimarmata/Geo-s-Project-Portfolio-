@@ -1,4 +1,4 @@
-# Welcome to My Data Science Portfolio
+# Welcome to My Portfolio
 
 This documentation provides a quick snapshot of my projects in the data field, showcasing my skills and expertise in data engineering, data analysis, machine learning, and data visualization.
 

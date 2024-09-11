@@ -8,8 +8,7 @@ This documentation provides a quick snapshot of my projects in the data field, s
 3. [Data Visualization Projects](#data-visualization-projects)
 4. [Data Engineering Projects](#data-engineering-projects)
 5. [MLOps Projects](#mlops-projects)
-6. [Additional Projects](#additional-projects)
-7. [About Me](#about-me)
+6. [About Me](#about-me)
 
 ## Data Science Projects
 
@@ -42,11 +41,6 @@ This documentation provides a quick snapshot of my projects in the data field, s
 |--------------|------------|-------------|
 | [MLOps on GCP](https://github.com/geosimarmata/mlops-on-gcp) | `geosimarmata/mlops-on-gcp` | Implemented MLOps practices on Google Cloud Platform to automate the deployment and monitoring of machine learning models. This project includes CI/CD pipelines, model versioning, and performance tracking. |
 
-## Additional Projects
-
-| Project Link | Repository | Description |
-|--------------|------------|-------------|
-| [Geo's Project Portfolio](https://github.com/geosimarmata/Geo-s-Project-Portfolio) | `geosimarmata/Geo-s-Project-Portfolio` | A collection of various smaller projects and exercises that demonstrate my versatility and continuous learning in the field of data science and engineering. |
 
 ## About Me
 
